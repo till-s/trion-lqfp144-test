@@ -2607,7 +2607,7 @@
   (symbol (lib_id "Device:R_Small") (at 134.62 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 02cb64d7-3b3d-4c7f-9ed5-881eac46f6fc)
-    (property "Reference" "R3" (at 134.62 29.21 90)
+    (property "Reference" "R40" (at 134.62 29.21 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 134.62 23.495 90)
@@ -2623,9 +2623,6 @@
     (pin "1" (uuid 772ec9f4-df27-42de-b444-6f9ca3336f1a))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R40") (unit 1)
         )
@@ -2636,7 +2633,7 @@
   (symbol (lib_id "Device:R_Small") (at 54.61 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0c26de26-db32-4618-8d0d-9e8d7762f856)
-    (property "Reference" "R3" (at 54.61 31.75 90)
+    (property "Reference" "R31" (at 54.61 31.75 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 54.61 26.035 90)
@@ -2652,9 +2649,6 @@
     (pin "1" (uuid bcdcf732-d9e9-4f9a-9ba5-26396195a07d))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R31") (unit 1)
         )
@@ -2665,7 +2659,7 @@
   (symbol (lib_id "Device:C_Small") (at 45.72 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1345d698-038d-4207-80ce-0b8b333814e5)
-    (property "Reference" "C14" (at 45.72 167.005 90)
+    (property "Reference" "C37" (at 45.72 167.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 45.72 161.29 90)
@@ -2681,9 +2675,6 @@
     (pin "2" (uuid b6316c03-aeda-40ee-b598-b25ab6c1701c))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C37") (unit 1)
         )
@@ -2694,7 +2685,7 @@
   (symbol (lib_id "Device:L_Ferrite_Small") (at 151.13 150.495 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 13c1d021-9a63-4208-9897-13ab03ef9f99)
-    (property "Reference" "L2" (at 151.13 155.5283 90)
+    (property "Reference" "L4" (at 151.13 155.5283 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "600Ohm@100MHz" (at 154.94 153.035 90)
@@ -2710,9 +2701,6 @@
     (pin "1" (uuid 738fc6ca-0469-4772-8dc9-3895c5be1ede))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "L2") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "L4") (unit 1)
         )
@@ -2723,7 +2711,7 @@
   (symbol (lib_id "Device:C_Small") (at 53.34 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 172e3870-5b60-4e66-bae7-9edea40b9025)
-    (property "Reference" "C14" (at 53.34 167.005 90)
+    (property "Reference" "C39" (at 53.34 167.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 53.34 161.29 90)
@@ -2739,9 +2727,6 @@
     (pin "2" (uuid c6eb700d-c1f1-49a3-b169-58d76fa2a617))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C39") (unit 1)
         )
@@ -2752,7 +2737,7 @@
   (symbol (lib_id "Device:R_Small") (at 137.795 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1968fc68-d602-4bb3-8766-1605bfcd195d)
-    (property "Reference" "R3" (at 137.795 29.21 90)
+    (property "Reference" "R37" (at 137.795 29.21 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 137.795 23.495 90)
@@ -2768,9 +2753,6 @@
     (pin "1" (uuid 7a8d3414-9ff4-41e6-a5d9-d2265b11cad0))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R37") (unit 1)
         )
@@ -2781,7 +2763,7 @@
   (symbol (lib_id "power:GND") (at 64.77 79.375 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1a333b35-9502-4391-bc12-75738e21079a)
-    (property "Reference" "#PWR019" (at 64.77 85.725 0)
+    (property "Reference" "#PWR077" (at 64.77 85.725 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 64.77 83.5081 0)
@@ -2796,9 +2778,6 @@
     (pin "1" (uuid ddebe45e-c9ff-45fb-ac83-0b9d83c80b25))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR019") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR077") (unit 1)
         )
@@ -2809,7 +2788,7 @@
   (symbol (lib_id "Device:C_Small") (at 67.31 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1dce2736-59d4-4b5b-a9d2-0c7b6f16d1dc)
-    (property "Reference" "C23" (at 67.31 167.005 90)
+    (property "Reference" "C65" (at 67.31 167.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 67.31 161.29 90)
@@ -2825,9 +2804,6 @@
     (pin "2" (uuid e76857eb-17ce-4a66-912f-d1efeaa3e781))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C23") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C65") (unit 1)
         )
@@ -2838,7 +2814,7 @@
   (symbol (lib_id "Device:L_Ferrite_Small") (at 151.13 139.065 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1eafd156-66c3-418c-ab14-d8d0cfd86792)
-    (property "Reference" "L2" (at 151.13 144.0983 90)
+    (property "Reference" "L5" (at 151.13 144.0983 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "600Ohm@100MHz" (at 154.94 141.605 90)
@@ -2854,9 +2830,6 @@
     (pin "1" (uuid 1bdd3449-da11-404b-85bb-3fb51d3b5513))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "L2") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "L5") (unit 1)
         )
@@ -2867,7 +2840,7 @@
   (symbol (lib_id "power:+3V3") (at 124.46 102.235 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1f2f2cfd-73f1-43c1-801d-45863de73d1b)
-    (property "Reference" "#PWR04" (at 124.46 106.045 0)
+    (property "Reference" "#PWR066" (at 124.46 106.045 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 124.46 98.1019 0)
@@ -2882,9 +2855,6 @@
     (pin "1" (uuid e17f56f1-43c4-4ea5-907d-058c90aaead2))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR04") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR066") (unit 1)
         )
@@ -2895,7 +2865,7 @@
   (symbol (lib_id "Device:C_Small") (at 71.12 100.33 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 204f215f-2979-4b5c-919a-75ba47da0e43)
-    (property "Reference" "C14" (at 68.7959 99.1242 0)
+    (property "Reference" "C42" (at 68.7959 99.1242 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 68.7959 101.5484 0)
@@ -2911,9 +2881,6 @@
     (pin "2" (uuid 213aa78f-4883-4e7d-90f7-6aefc4a68d1f))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C42") (unit 1)
         )
@@ -2924,7 +2891,7 @@
   (symbol (lib_id "Device:C_Small") (at 225.425 123.19 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 231e2226-2cd2-41d3-8a7c-aa7580cfb433)
-    (property "Reference" "C23" (at 225.425 117.475 90)
+    (property "Reference" "C71" (at 225.425 117.475 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 225.425 111.76 90)
@@ -2940,9 +2907,6 @@
     (pin "2" (uuid f2fa1359-92d6-4ae3-aedf-781df5705ff9))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C23") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C71") (unit 1)
         )
@@ -2953,7 +2917,7 @@
   (symbol (lib_id "power:+3V3") (at 173.355 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 233fed1d-679f-4ad9-b741-99fbccc225ed)
-    (property "Reference" "#PWR04" (at 173.355 34.29 0)
+    (property "Reference" "#PWR074" (at 173.355 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 173.355 26.3469 0)
@@ -2968,9 +2932,6 @@
     (pin "1" (uuid e8e4ecaa-7e55-4a5b-bab0-6646e813063d))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR04") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR074") (unit 1)
         )
@@ -2981,7 +2942,7 @@
   (symbol (lib_id "Device:C_Small") (at 216.535 123.19 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 256416c9-377b-410e-b9fd-30025c27712b)
-    (property "Reference" "C23" (at 216.535 117.475 90)
+    (property "Reference" "C69" (at 216.535 117.475 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 216.535 111.76 90)
@@ -2997,9 +2958,6 @@
     (pin "2" (uuid da32b12f-1ec1-4a92-93d8-cd56be23ca1e))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C23") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C69") (unit 1)
         )
@@ -3010,7 +2968,7 @@
   (symbol (lib_id "power:GND") (at 139.7 144.145 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 26729f61-3e0f-46ba-9d4a-3fcd7ac0ccf6)
-    (property "Reference" "#PWR019" (at 139.7 150.495 0)
+    (property "Reference" "#PWR058" (at 139.7 150.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 139.7 148.2781 0)
@@ -3025,9 +2983,6 @@
     (pin "1" (uuid 18594d8d-8880-4e9d-a1ef-b38d9c6189f5))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR019") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR058") (unit 1)
         )
@@ -3038,7 +2993,7 @@
   (symbol (lib_id "Device:C_Small") (at 49.53 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 28d7ccbc-a333-4d60-88f9-888f177f737d)
-    (property "Reference" "C14" (at 49.53 167.005 90)
+    (property "Reference" "C38" (at 49.53 167.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 49.53 161.29 90)
@@ -3054,9 +3009,6 @@
     (pin "2" (uuid f64c42d0-5d0e-4441-9508-5438e2f28941))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C38") (unit 1)
         )
@@ -3067,7 +3019,7 @@
   (symbol (lib_id "power:+3V3") (at 45.085 31.115 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2c7f2018-dc81-4055-ac99-1309a0dd509d)
-    (property "Reference" "#PWR04" (at 45.085 34.925 0)
+    (property "Reference" "#PWR073" (at 45.085 34.925 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 45.085 26.9819 0)
@@ -3082,9 +3034,6 @@
     (pin "1" (uuid 4ea804e2-27d7-4306-afda-d6c23139c1a1))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR04") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR073") (unit 1)
         )
@@ -3095,7 +3044,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 125.73 139.065 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 367fd59f-6be8-4b72-852a-9cbe1662f377)
-    (property "Reference" "#FLG02" (at 125.73 137.16 0)
+    (property "Reference" "#FLG08" (at 125.73 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 125.73 134.9319 0)
@@ -3110,9 +3059,6 @@
     (pin "1" (uuid fc99cd52-9b3f-4e4d-b04c-8b87a6cecd8d))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#FLG02") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#FLG08") (unit 1)
         )
@@ -3123,7 +3069,7 @@
   (symbol (lib_id "Device:C_Small") (at 220.98 123.19 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 36aca3c7-0955-43ab-ac84-d61639c98da1)
-    (property "Reference" "C23" (at 220.98 117.475 90)
+    (property "Reference" "C70" (at 220.98 117.475 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 220.98 111.76 90)
@@ -3139,9 +3085,6 @@
     (pin "2" (uuid a63b567c-974f-46ea-abed-d978b0f51ea7))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C23") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C70") (unit 1)
         )
@@ -3152,7 +3095,7 @@
   (symbol (lib_id "power:GND") (at 223.52 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3c96b467-d09f-4f36-b655-8db369c8a577)
-    (property "Reference" "#PWR0111" (at 223.52 132.08 0)
+    (property "Reference" "#PWR0129" (at 223.52 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 223.52 129.8631 0)
@@ -3167,9 +3110,6 @@
     (pin "1" (uuid 2aa49bdb-de85-4d1d-a8f1-6867f6a0d603))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR0111") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR0129") (unit 1)
         )
@@ -3180,7 +3120,7 @@
   (symbol (lib_id "power:+3V3") (at 39.37 103.505 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3d29f012-f474-4433-8996-c2237ab38dca)
-    (property "Reference" "#PWR04" (at 39.37 107.315 0)
+    (property "Reference" "#PWR065" (at 39.37 107.315 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 39.37 99.3719 0)
@@ -3195,9 +3135,6 @@
     (pin "1" (uuid fdad9551-09ab-41d5-9a5a-4af558014d35))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR04") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR065") (unit 1)
         )
@@ -3208,7 +3145,7 @@
   (symbol (lib_id "Device:LED") (at 107.315 81.915 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 437bb640-7f64-477b-89a1-6e43a258f6f7)
-    (property "Reference" "D1" (at 105.7275 87.3293 0)
+    (property "Reference" "D10" (at 105.7275 87.3293 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "LED" (at 105.7275 84.9051 0)
@@ -3224,12 +3161,6 @@
     (pin "2" (uuid b7f7b378-2882-4c84-83a4-948f9d24c732))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/156952d1-5d11-4286-b02e-ddefbba25fea"
-          (reference "D1") (unit 1)
-        )
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/fcca3f1a-1f66-4a0e-b66f-62043120db1b"
-          (reference "D9") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "D10") (unit 1)
         )
@@ -3240,7 +3171,7 @@
   (symbol (lib_id "Device:C_Small") (at 173.355 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 44ed417d-0f4b-4063-abc4-e86f3ff1e979)
-    (property "Reference" "C14" (at 175.6791 31.8142 0)
+    (property "Reference" "C44" (at 175.6791 31.8142 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 175.6791 34.2384 0)
@@ -3256,9 +3187,6 @@
     (pin "2" (uuid 9ab6417c-f3b2-430c-ad79-1e2851be05ce))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C44") (unit 1)
         )
@@ -3269,7 +3197,7 @@
   (symbol (lib_id "power:GND") (at 94.615 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 461746b1-8b25-40f6-9d5c-71c85635f29a)
-    (property "Reference" "#PWR019" (at 94.615 39.37 0)
+    (property "Reference" "#PWR071" (at 94.615 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 94.615 37.1531 0)
@@ -3284,9 +3212,6 @@
     (pin "1" (uuid 59d0b671-288e-4cab-b748-b1938686c938))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR019") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR071") (unit 1)
         )
@@ -3322,7 +3247,7 @@
   (symbol (lib_id "power:+3V3") (at 236.22 120.65 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 48639260-3888-4870-8a63-1a80b10aa48a)
-    (property "Reference" "#PWR0110" (at 236.22 124.46 0)
+    (property "Reference" "#PWR0130" (at 236.22 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 236.22 116.5169 0)
@@ -3337,9 +3262,6 @@
     (pin "1" (uuid d882ec59-207c-4a76-8681-cd57ea43b97f))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR0110") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR0130") (unit 1)
         )
@@ -3350,7 +3272,7 @@
   (symbol (lib_id "Device:R_Small") (at 124.46 104.775 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4910e222-93ed-4ddc-9a70-69abbe18453f)
-    (property "Reference" "R3" (at 125.9586 103.5629 0)
+    (property "Reference" "R30" (at 125.9586 103.5629 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 125.9586 105.9871 0)
@@ -3366,9 +3288,6 @@
     (pin "1" (uuid 2f455241-a159-4958-ad81-f0666e86194c))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R30") (unit 1)
         )
@@ -3379,7 +3298,7 @@
   (symbol (lib_id "power:GND") (at 174.625 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 53a661fd-2fe4-4d28-9d60-09e518538584)
-    (property "Reference" "#PWR0111" (at 174.625 123.19 0)
+    (property "Reference" "#PWR0112" (at 174.625 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 174.625 120.9731 0)
@@ -3394,9 +3313,6 @@
     (pin "1" (uuid 609590b1-acbb-4881-abe3-c8f857822c95))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR0111") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR0112") (unit 1)
         )
@@ -3407,7 +3323,7 @@
   (symbol (lib_id "Device:R_Small") (at 59.69 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 53d2fab1-7688-46b4-ba99-1e1d1ea07c12)
-    (property "Reference" "R3" (at 59.69 31.75 90)
+    (property "Reference" "R33" (at 59.69 31.75 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 59.69 26.035 90)
@@ -3423,9 +3339,6 @@
     (pin "1" (uuid ee2cc4ad-1bac-4582-884d-a62a9c5ec16b))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R33") (unit 1)
         )
@@ -3436,7 +3349,7 @@
   (symbol (lib_id "Device:C_Small") (at 135.255 164.465 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 540f0991-ea2a-4eba-8f3b-1c8a05e39313)
-    (property "Reference" "C14" (at 132.9309 163.2592 0)
+    (property "Reference" "C28" (at 132.9309 163.2592 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 132.9309 165.6834 0)
@@ -3452,9 +3365,6 @@
     (pin "2" (uuid 05dc0835-8f91-48b7-b95e-6b5b1799a294))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C28") (unit 1)
         )
@@ -3465,7 +3375,7 @@
   (symbol (lib_id "Device:C_Small") (at 41.91 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 54cd5188-1e65-4e02-9e6c-bcc54ba28e1c)
-    (property "Reference" "C14" (at 41.91 167.005 90)
+    (property "Reference" "C36" (at 41.91 167.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 41.91 161.29 90)
@@ -3481,9 +3391,6 @@
     (pin "2" (uuid 58856b17-426d-4a2b-ad1a-5346de8d7caf))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C36") (unit 1)
         )
@@ -3652,9 +3559,6 @@
     (pin "4" (uuid bc1aef62-ffb3-4b09-95c7-cb334459fd7a))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169"
-          (reference "U8") (unit 11)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "U8") (unit 11)
         )
@@ -3665,7 +3569,7 @@
   (symbol (lib_id "Device:C_Small") (at 60.96 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5959dea8-332e-46d6-88de-4b776d1a4d3a)
-    (property "Reference" "C14" (at 60.96 167.005 90)
+    (property "Reference" "C41" (at 60.96 167.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 60.96 161.29 90)
@@ -3681,9 +3585,6 @@
     (pin "2" (uuid a2069780-6ca1-47e3-aa5d-89a5b44662ca))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C41") (unit 1)
         )
@@ -3694,7 +3595,7 @@
   (symbol (lib_id "power:GND") (at 139.7 167.005 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 59974781-6da4-41e1-b794-2704dc4e36f5)
-    (property "Reference" "#PWR019" (at 139.7 173.355 0)
+    (property "Reference" "#PWR056" (at 139.7 173.355 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 139.7 171.1381 0)
@@ -3709,9 +3610,6 @@
     (pin "1" (uuid 02a2b557-1ed1-4225-af53-3b052c311158))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR019") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR056") (unit 1)
         )
@@ -3775,7 +3673,7 @@
   (symbol (lib_id "Device:R_Small") (at 155.575 41.275 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5f124b19-498c-4c75-b9e4-cc577b0034fe)
-    (property "Reference" "R3" (at 155.575 36.195 90)
+    (property "Reference" "R42" (at 155.575 36.195 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 155.575 30.48 90)
@@ -3791,9 +3689,6 @@
     (pin "1" (uuid eeade810-1127-4a92-bf67-6bb330513d75))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R42") (unit 1)
         )
@@ -3962,9 +3857,6 @@
     (pin "4" (uuid bc1aef62-ffb3-4b09-95c7-cb334459fd7b))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169"
-          (reference "U8") (unit 8)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "U8") (unit 8)
         )
@@ -3975,7 +3867,7 @@
   (symbol (lib_id "Device:C_Small") (at 174.625 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 62195474-1e10-4739-bd6f-9ccb03fcd039)
-    (property "Reference" "C2" (at 176.9491 113.0942 0)
+    (property "Reference" "C3" (at 176.9491 113.0942 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 176.9491 115.5184 0)
@@ -3991,9 +3883,6 @@
     (pin "2" (uuid 4da1f8f5-0cbd-4d30-b8a6-faeb41d6f100))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C2") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C3") (unit 1)
         )
@@ -4004,7 +3893,7 @@
   (symbol (lib_id "power:GND") (at 166.37 67.945 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6386046a-c9ac-4c5f-b737-b6f11abc6bf3)
-    (property "Reference" "#PWR019" (at 166.37 74.295 0)
+    (property "Reference" "#PWR076" (at 166.37 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 166.37 72.0781 0)
@@ -4019,9 +3908,6 @@
     (pin "1" (uuid 1b0d9581-50b6-4256-bc0e-d9de19f19083))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR019") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR076") (unit 1)
         )
@@ -4032,7 +3918,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 125.73 161.925 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 67209d02-5adf-41db-a18d-9e5e2b27b0bd)
-    (property "Reference" "#FLG02" (at 125.73 160.02 0)
+    (property "Reference" "#FLG01" (at 125.73 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 125.73 157.7919 0)
@@ -4047,9 +3933,6 @@
     (pin "1" (uuid 7adce7a7-b487-4b5b-a7bc-9b31fa4976d5))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#FLG02") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#FLG01") (unit 1)
         )
@@ -4060,7 +3943,7 @@
   (symbol (lib_id "Connector_Generic:Conn_02x07_Odd_Even") (at 29.845 57.785 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 679f4414-55fd-45ae-a8c5-219124cd3f9e)
-    (property "Reference" "J2" (at 28.575 44.7507 0)
+    (property "Reference" "J3" (at 28.575 44.7507 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "T8_JTAG" (at 28.575 47.1749 0)
@@ -4088,9 +3971,6 @@
     (pin "9" (uuid 5c532a4a-dc53-4b48-b26e-1ec9b20df363))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "J2") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "J3") (unit 1)
         )
@@ -4101,7 +3981,7 @@
   (symbol (lib_id "power:+3V3") (at 109.22 27.305 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 682fde91-715d-47e1-8571-d2c49ec546ff)
-    (property "Reference" "#PWR04" (at 109.22 31.115 0)
+    (property "Reference" "#PWR072" (at 109.22 31.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 109.22 23.1719 0)
@@ -4116,9 +3996,6 @@
     (pin "1" (uuid 33f9745d-2399-4ba5-b4e8-28da30ff64f9))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR04") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR072") (unit 1)
         )
@@ -4129,7 +4006,7 @@
   (symbol (lib_id "Device:C_Small") (at 38.1 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 69017e32-f544-402f-84eb-5bbe6b726e5a)
-    (property "Reference" "C14" (at 38.1 167.005 90)
+    (property "Reference" "C35" (at 38.1 167.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 38.1 161.29 90)
@@ -4145,9 +4022,6 @@
     (pin "2" (uuid e77368ba-2749-4db3-bf91-e8c33b4c5f90))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C35") (unit 1)
         )
@@ -4158,7 +4032,7 @@
   (symbol (lib_id "Device:C_Small") (at 76.2 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 69dae4de-e4fb-4e3b-842e-2a00542ae3d7)
-    (property "Reference" "C23" (at 76.2 167.005 90)
+    (property "Reference" "C67" (at 76.2 167.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 76.2 161.29 90)
@@ -4174,9 +4048,6 @@
     (pin "2" (uuid 8663372e-5e0b-4236-9846-385adbb879d5))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C23") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C67") (unit 1)
         )
@@ -4214,12 +4085,6 @@
         )
       )
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169"
-          (reference "C61") (unit 1)
-        )
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/156952d1-5d11-4286-b02e-ddefbba25fea"
-          (reference "C63") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C72") (unit 1)
         )
@@ -4230,7 +4095,7 @@
   (symbol (lib_id "Device:C_Small") (at 64.77 73.66 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 77bf5865-5a80-4189-aff9-6a85398b409d)
-    (property "Reference" "C14" (at 62.4459 72.4542 0)
+    (property "Reference" "C45" (at 62.4459 72.4542 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 62.4459 74.8784 0)
@@ -4246,9 +4111,6 @@
     (pin "2" (uuid 6ecbbb1c-c5b7-484e-b90f-5de79e0d7d99))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C45") (unit 1)
         )
@@ -4259,7 +4121,7 @@
   (symbol (lib_id "Device:R_Small") (at 47.625 106.045 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 78e52c69-8a79-4388-bafd-4387282db007)
-    (property "Reference" "R3" (at 49.1236 104.8329 0)
+    (property "Reference" "R23" (at 49.1236 104.8329 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 49.1236 107.2571 0)
@@ -4275,9 +4137,6 @@
     (pin "1" (uuid 79d8362f-1ae7-45a6-8124-b5beeec0ada9))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R23") (unit 1)
         )
@@ -4288,7 +4147,7 @@
   (symbol (lib_id "power:+3V3") (at 71.12 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 78fe3de9-d516-4b96-8076-b2b786515d95)
-    (property "Reference" "#PWR04" (at 71.12 101.6 0)
+    (property "Reference" "#PWR067" (at 71.12 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 71.12 93.6569 0)
@@ -4303,9 +4162,6 @@
     (pin "1" (uuid 952dc318-1886-457b-a87f-3b68f044829d))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR04") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR067") (unit 1)
         )
@@ -4316,7 +4172,7 @@
   (symbol (lib_id "Device:C_Small") (at 139.7 164.465 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7d3a0eeb-9c5b-4cfd-ad0e-862492c2cae3)
-    (property "Reference" "C13" (at 142.0241 163.2592 0)
+    (property "Reference" "C27" (at 142.0241 163.2592 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4u7" (at 142.0241 165.6834 0)
@@ -4332,9 +4188,6 @@
     (pin "2" (uuid a167beda-01e9-4fc9-ae28-11fe608e0665))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C13") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C27") (unit 1)
         )
@@ -4345,7 +4198,7 @@
   (symbol (lib_id "Device:L_Ferrite_Small") (at 151.13 161.925 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8058a709-6c55-4ba2-b224-7849c3026937)
-    (property "Reference" "L2" (at 151.13 166.9583 90)
+    (property "Reference" "L3" (at 151.13 166.9583 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "600Ohm@100MHz" (at 154.94 164.465 90)
@@ -4361,9 +4214,6 @@
     (pin "1" (uuid 8d0049d3-b3fe-471f-93c9-0ba4f6df9a3c))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "L2") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "L3") (unit 1)
         )
@@ -4406,7 +4256,7 @@
   (symbol (lib_id "Device:R_Small") (at 62.23 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 89d853c2-66f7-40b4-9174-61642c3ae6b1)
-    (property "Reference" "R3" (at 62.23 31.75 90)
+    (property "Reference" "R34" (at 62.23 31.75 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 62.23 26.035 90)
@@ -4422,9 +4272,6 @@
     (pin "1" (uuid 8bc6f33c-a56b-489b-91d1-fef120273055))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R34") (unit 1)
         )
@@ -4435,7 +4282,7 @@
   (symbol (lib_id "Device:R_Small") (at 39.37 106.045 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8bc3a4c5-f39d-49b8-8a55-a50be755b4f6)
-    (property "Reference" "R3" (at 40.8686 104.8329 0)
+    (property "Reference" "R24" (at 40.8686 104.8329 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 40.8686 107.2571 0)
@@ -4451,9 +4298,6 @@
     (pin "1" (uuid b7f2dd87-0788-487c-8570-06e981c4a1fc))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R24") (unit 1)
         )
@@ -4489,7 +4333,7 @@
   (symbol (lib_id "Device:C_Small") (at 139.7 153.035 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 90f817a3-41e9-4d82-a25d-3cef01767278)
-    (property "Reference" "C13" (at 142.0241 151.8292 0)
+    (property "Reference" "C30" (at 142.0241 151.8292 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4u7" (at 142.0241 154.2534 0)
@@ -4505,9 +4349,6 @@
     (pin "2" (uuid a435f3ba-56d0-49cf-8d06-11f9b9969de9))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C13") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C30") (unit 1)
         )
@@ -4518,7 +4359,7 @@
   (symbol (lib_id "Device:C_Small") (at 57.15 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 942eae8a-f548-4c25-af24-a9af4316707c)
-    (property "Reference" "C14" (at 57.15 167.005 90)
+    (property "Reference" "C40" (at 57.15 167.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 57.15 161.29 90)
@@ -4534,9 +4375,6 @@
     (pin "2" (uuid cb63b02a-59d9-465e-b536-7d348206c0e1))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C40") (unit 1)
         )
@@ -4547,7 +4385,7 @@
   (symbol (lib_id "Device:C_Small") (at 30.48 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 95ca692c-4717-4fe6-9e10-f858256f5b8a)
-    (property "Reference" "C14" (at 30.48 167.005 90)
+    (property "Reference" "C33" (at 30.48 167.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 30.48 161.29 90)
@@ -4563,9 +4401,6 @@
     (pin "2" (uuid eac56a09-83ad-40f7-ad1c-5059c065f2d9))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C33") (unit 1)
         )
@@ -4576,7 +4411,7 @@
   (symbol (lib_id "power:GND") (at 19.05 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 972a6a16-cb74-4c86-8818-72dae11d1ba4)
-    (property "Reference" "#PWR048" (at 19.05 72.39 0)
+    (property "Reference" "#PWR078" (at 19.05 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 19.05 70.1731 0)
@@ -4591,9 +4426,6 @@
     (pin "1" (uuid 3983e8d6-acc3-4d88-a051-b84aa20a6ae2))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR048") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR078") (unit 1)
         )
@@ -4604,7 +4436,7 @@
   (symbol (lib_id "power:PWR_FLAG") (at 125.73 150.495 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 98e45707-f1a2-4311-9564-988f13add955)
-    (property "Reference" "#FLG02" (at 125.73 148.59 0)
+    (property "Reference" "#FLG03" (at 125.73 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "PWR_FLAG" (at 125.73 146.3619 0)
@@ -4619,9 +4451,6 @@
     (pin "1" (uuid 3e1597cd-dbf5-4cc5-ae45-85538de022a1))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#FLG02") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#FLG03") (unit 1)
         )
@@ -4632,7 +4461,7 @@
   (symbol (lib_id "power:GND") (at 71.12 102.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9a00d0b7-4b20-4826-bd43-64c8e2d7148a)
-    (property "Reference" "#PWR019" (at 71.12 109.22 0)
+    (property "Reference" "#PWR069" (at 71.12 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 71.12 107.0031 0)
@@ -4647,9 +4476,6 @@
     (pin "1" (uuid bf833a58-bdd5-4335-ba95-ece75283e81f))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR019") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR069") (unit 1)
         )
@@ -4660,7 +4486,7 @@
   (symbol (lib_id "Device:C_Small") (at 94.615 30.48 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a3d22f4f-a007-42d0-b988-1b3fab74b39f)
-    (property "Reference" "C14" (at 92.2909 29.2742 0)
+    (property "Reference" "C43" (at 92.2909 29.2742 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 92.2909 31.6984 0)
@@ -4676,9 +4502,6 @@
     (pin "2" (uuid 19170257-22c9-4289-9b6c-630826f65932))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C43") (unit 1)
         )
@@ -4689,7 +4512,7 @@
   (symbol (lib_id "Device:R_Small") (at 152.4 41.275 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid acac02e2-3cd6-4004-a30f-fb4770bb8329)
-    (property "Reference" "R3" (at 152.4 36.195 90)
+    (property "Reference" "R41" (at 152.4 36.195 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 152.4 30.48 90)
@@ -4705,9 +4528,6 @@
     (pin "1" (uuid e42010c5-1e54-4200-8a46-a3b3b014f65b))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R41") (unit 1)
         )
@@ -4718,7 +4538,7 @@
   (symbol (lib_id "power:GND") (at 45.72 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid af48d5b5-e38a-4dcb-94fa-2e6b4c0e1fc1)
-    (property "Reference" "#PWR019" (at 45.72 184.15 0)
+    (property "Reference" "#PWR060" (at 45.72 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 45.72 181.9331 0)
@@ -4733,9 +4553,6 @@
     (pin "1" (uuid 93739e05-cb27-45cc-90ef-75374bbf1407))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR019") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR060") (unit 1)
         )
@@ -4746,7 +4563,7 @@
   (symbol (lib_id "Device:R_Small") (at 42.545 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b1652fc5-ebac-4e0e-a787-7996fad3f36c)
-    (property "Reference" "R3" (at 42.545 31.75 90)
+    (property "Reference" "R43" (at 42.545 31.75 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 42.545 26.035 90)
@@ -4762,9 +4579,6 @@
     (pin "1" (uuid f7424902-4b48-47e3-9b79-f81c9ae5df17))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R43") (unit 1)
         )
@@ -4775,7 +4589,7 @@
   (symbol (lib_id "power:+3V3") (at 94.615 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b58fdfa5-d0d8-496c-bdb8-3ac37d1d28a7)
-    (property "Reference" "#PWR04" (at 94.615 31.75 0)
+    (property "Reference" "#PWR070" (at 94.615 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 94.615 23.8069 0)
@@ -4790,9 +4604,6 @@
     (pin "1" (uuid 7af9da27-fac5-4263-926d-400b7ffdd5c0))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR04") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR070") (unit 1)
         )
@@ -4803,7 +4614,7 @@
   (symbol (lib_id "power:+3V3") (at 55.88 103.505 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b91b7562-90a4-4ace-99da-4f4219da2ace)
-    (property "Reference" "#PWR04" (at 55.88 107.315 0)
+    (property "Reference" "#PWR063" (at 55.88 107.315 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 55.88 99.3719 0)
@@ -4818,9 +4629,6 @@
     (pin "1" (uuid 75b57363-cb09-4de3-bf03-0c00572b08c1))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR04") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR063") (unit 1)
         )
@@ -4831,7 +4639,7 @@
   (symbol (lib_id "power:+3V3") (at 160.655 107.315 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bfae62ec-5690-4892-8b44-2c7eddf8b298)
-    (property "Reference" "#PWR0110" (at 160.655 111.125 0)
+    (property "Reference" "#PWR0113" (at 160.655 111.125 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 160.655 103.1819 0)
@@ -4846,9 +4654,6 @@
     (pin "1" (uuid 359f4adc-c62f-4f12-b6aa-6697b232ec49))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR0110") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR0113") (unit 1)
         )
@@ -4859,7 +4664,7 @@
   (symbol (lib_id "power:+3V3") (at 121.92 81.915 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c9588a1f-84af-4e10-ae7b-9afefca11775)
-    (property "Reference" "#PWR04" (at 121.92 85.725 0)
+    (property "Reference" "#PWR0134" (at 121.92 85.725 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 121.92 77.7819 0)
@@ -4874,9 +4679,6 @@
     (pin "1" (uuid 5a7c6f7d-e5df-4d1a-8c24-13b1a6596160))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR04") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR0134") (unit 1)
         )
@@ -4887,7 +4689,7 @@
   (symbol (lib_id "power:+3V3") (at 89.535 104.775 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ce6e4838-546b-461b-8a20-604bf6ebb537)
-    (property "Reference" "#PWR04" (at 89.535 108.585 0)
+    (property "Reference" "#PWR068" (at 89.535 108.585 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 89.535 100.6419 0)
@@ -4902,9 +4704,6 @@
     (pin "1" (uuid 7b2561d7-4a29-4655-85bc-678ca86aea00))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR04") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR068") (unit 1)
         )
@@ -4915,7 +4714,7 @@
   (symbol (lib_id "Device:R_Small") (at 55.88 106.045 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d0685b6b-5582-4416-bee5-c9c2074455e3)
-    (property "Reference" "R3" (at 57.3786 104.8329 0)
+    (property "Reference" "R22" (at 57.3786 104.8329 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 57.3786 107.2571 0)
@@ -4931,9 +4730,6 @@
     (pin "1" (uuid 28663559-afe3-4371-b5b3-3557a458d6f1))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R22") (unit 1)
         )
@@ -4944,7 +4740,7 @@
   (symbol (lib_id "Device:R_Small") (at 64.77 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d560a663-00a0-4860-8ffe-de8951dc791b)
-    (property "Reference" "R3" (at 64.77 31.75 90)
+    (property "Reference" "R35" (at 64.77 31.75 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 64.77 26.035 90)
@@ -4960,9 +4756,6 @@
     (pin "1" (uuid 2b868a0c-6ad9-4b9d-9705-645877a0f269))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R35") (unit 1)
         )
@@ -5131,9 +4924,6 @@
     (pin "4" (uuid bc1aef62-ffb3-4b09-95c7-cb334459fd7c))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169"
-          (reference "U8") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "U8") (unit 1)
         )
@@ -5144,7 +4934,7 @@
   (symbol (lib_id "Oscillator:ECS-2520MV-xxx-xx") (at 160.655 114.935 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid db930668-6dc2-44f0-a000-9f5a0fc0c7b3)
-    (property "Reference" "X1" (at 141.7297 111.4608 0)
+    (property "Reference" "X2" (at 141.7297 111.4608 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ECS-2520MV-120-CM" (at 149.86 128.905 0)
@@ -5162,9 +4952,6 @@
     (pin "3" (uuid b797fc1b-8c27-4b41-9af9-9a6a7d3bb9f7))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "X1") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "X2") (unit 1)
         )
@@ -5175,7 +4962,7 @@
   (symbol (lib_id "power:GND") (at 139.7 155.575 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dd74ed27-3812-43e6-878c-b6224da4b7c1)
-    (property "Reference" "#PWR019" (at 139.7 161.925 0)
+    (property "Reference" "#PWR057" (at 139.7 161.925 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 139.7 159.7081 0)
@@ -5190,9 +4977,6 @@
     (pin "1" (uuid 399148da-fcaf-4065-9c96-21282fe04671))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR019") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR057") (unit 1)
         )
@@ -5203,7 +4987,7 @@
   (symbol (lib_id "power:GND") (at 160.655 122.555 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e2f51ffb-fb26-4a97-9677-ad38a2add3f4)
-    (property "Reference" "#PWR08" (at 160.655 128.905 0)
+    (property "Reference" "#PWR0114" (at 160.655 128.905 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 160.655 126.6881 0)
@@ -5218,9 +5002,6 @@
     (pin "1" (uuid 04491405-6579-4f75-aaaa-9382518372c0))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR08") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR0114") (unit 1)
         )
@@ -5231,7 +5012,7 @@
   (symbol (lib_id "Device:R_Small") (at 67.31 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e5634c8f-c1cc-4a1b-ad7a-b62eb7b7b743)
-    (property "Reference" "R3" (at 67.31 31.75 90)
+    (property "Reference" "R36" (at 67.31 31.75 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 67.31 26.035 90)
@@ -5247,9 +5028,6 @@
     (pin "1" (uuid 2ce03917-c283-41fe-bdc7-b7d33a303363))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R36") (unit 1)
         )
@@ -5260,7 +5038,7 @@
   (symbol (lib_id "Device:C_Small") (at 34.29 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e78bca2e-e591-45e4-896e-5a889c622393)
-    (property "Reference" "C14" (at 34.29 167.005 90)
+    (property "Reference" "C34" (at 34.29 167.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 34.29 161.29 90)
@@ -5276,9 +5054,6 @@
     (pin "2" (uuid e2de7a62-6e54-4758-a4b7-87947e38a60d))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C34") (unit 1)
         )
@@ -5289,7 +5064,7 @@
   (symbol (lib_id "Device:R_Small") (at 57.15 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e84176fc-bb8b-422c-a520-5bed11a010b1)
-    (property "Reference" "R3" (at 57.15 31.75 90)
+    (property "Reference" "R32" (at 57.15 31.75 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 57.15 26.035 90)
@@ -5305,9 +5080,6 @@
     (pin "1" (uuid 04b8e14c-f47b-4bcc-a5a9-f9dd3f8cc49b))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "R3") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R32") (unit 1)
         )
@@ -5318,7 +5090,7 @@
   (symbol (lib_id "power:GND") (at 173.355 35.56 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e8b5fc36-5870-4558-bf12-eb18ee1ce710)
-    (property "Reference" "#PWR019" (at 173.355 41.91 0)
+    (property "Reference" "#PWR075" (at 173.355 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 173.355 39.6931 0)
@@ -5333,9 +5105,6 @@
     (pin "1" (uuid cafcb2dc-2c1f-4d95-8ccb-87b05b9ce938))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR019") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR075") (unit 1)
         )
@@ -5346,7 +5115,7 @@
   (symbol (lib_id "power:GND") (at 105.41 187.325 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eab9cb09-7228-413c-84ab-2c1e9014a659)
-    (property "Reference" "#PWR019" (at 105.41 193.675 0)
+    (property "Reference" "#PWR059" (at 105.41 193.675 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 105.41 191.4581 0)
@@ -5361,9 +5130,6 @@
     (pin "1" (uuid 6a987ff7-e3c9-4105-a4ba-b3284fdd7f14))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR019") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR059") (unit 1)
         )
@@ -5401,12 +5167,6 @@
         )
       )
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169"
-          (reference "C61") (unit 1)
-        )
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/156952d1-5d11-4286-b02e-ddefbba25fea"
-          (reference "C63") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C68") (unit 1)
         )
@@ -5417,7 +5177,7 @@
   (symbol (lib_id "power:+3V3") (at 47.625 103.505 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ee81b360-92a3-4919-9960-55daefb7bf08)
-    (property "Reference" "#PWR04" (at 47.625 107.315 0)
+    (property "Reference" "#PWR064" (at 47.625 107.315 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 47.625 99.3719 0)
@@ -5432,9 +5192,6 @@
     (pin "1" (uuid 7a5a193b-18f8-4be1-b319-7a35e6b8ebbe))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR04") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR064") (unit 1)
         )
@@ -5445,7 +5202,7 @@
   (symbol (lib_id "Device:C_Small") (at 135.255 153.035 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f0e9d913-5b74-439a-aa65-be962ed47872)
-    (property "Reference" "C14" (at 132.9309 151.8292 0)
+    (property "Reference" "C29" (at 132.9309 151.8292 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 132.9309 154.2534 0)
@@ -5461,9 +5218,6 @@
     (pin "2" (uuid 59ee35a9-0dfe-43b9-bfbf-aa71ff97af53))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C29") (unit 1)
         )
@@ -5474,7 +5228,7 @@
   (symbol (lib_id "power:GND") (at 100.965 97.155 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f2b641f3-943a-4b3e-9e42-c33cd8045ebf)
-    (property "Reference" "#PWR019" (at 100.965 103.505 0)
+    (property "Reference" "#PWR0133" (at 100.965 103.505 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 100.965 101.2881 0)
@@ -5489,9 +5243,6 @@
     (pin "1" (uuid 041fb718-ce30-41b3-bdb7-0b53c011a33d))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "#PWR019") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "#PWR0133") (unit 1)
         )
@@ -5529,15 +5280,6 @@
         )
       )
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169"
-          (reference "R57") (unit 1)
-        )
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/156952d1-5d11-4286-b02e-ddefbba25fea"
-          (reference "R64") (unit 1)
-        )
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/fcca3f1a-1f66-4a0e-b66f-62043120db1b"
-          (reference "R71") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "R72") (unit 1)
         )
@@ -5548,7 +5290,7 @@
   (symbol (lib_id "Device:C_Small") (at 135.255 141.605 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fc6e911d-4073-4263-bea3-0808ddc31f04)
-    (property "Reference" "C14" (at 132.9309 140.3992 0)
+    (property "Reference" "C31" (at 132.9309 140.3992 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 132.9309 142.8234 0)
@@ -5564,9 +5306,6 @@
     (pin "2" (uuid 5c40234e-0e67-43cb-b500-9a2b0b2ce0b2))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C14") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C31") (unit 1)
         )
@@ -5577,7 +5316,7 @@
   (symbol (lib_id "Device:C_Small") (at 139.7 141.605 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fed5c443-8839-4b27-b985-eb548d816181)
-    (property "Reference" "C13" (at 142.0241 140.3992 0)
+    (property "Reference" "C32" (at 142.0241 140.3992 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4u7" (at 142.0241 142.8234 0)
@@ -5593,9 +5332,6 @@
     (pin "2" (uuid 9666a6ad-cbc3-43d6-8836-ad0c18f40333))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C13") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C32") (unit 1)
         )
@@ -5606,7 +5342,7 @@
   (symbol (lib_id "Device:C_Small") (at 71.755 172.72 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ffbcd984-78c8-40a5-b0c3-77d70181e8f1)
-    (property "Reference" "C23" (at 71.755 167.005 90)
+    (property "Reference" "C66" (at 71.755 167.005 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 71.755 161.29 90)
@@ -5622,9 +5358,6 @@
     (pin "2" (uuid ea041bda-34bd-4b6d-84c7-cebfb8929b27))
     (instances
       (project "trion-8-test"
-        (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/bc2980b1-eb90-41cb-856d-046239a7793d"
-          (reference "C23") (unit 1)
-        )
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/f706ede1-c100-479f-a87e-df6f74047868"
           (reference "C66") (unit 1)
         )

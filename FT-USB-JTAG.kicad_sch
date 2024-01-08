@@ -2056,6 +2056,7 @@
   (no_connect (at 116.84 130.175) (uuid 514fb8d8-7acb-4e55-b966-9013011285b1))
   (no_connect (at 177.8 120.015) (uuid 5ed1570f-0fb6-4aaf-b2ed-22b94ac27f24))
   (no_connect (at 177.8 53.975) (uuid 623e36b2-61f7-492d-9e8d-04bcc77b1c89))
+  (no_connect (at 248.285 92.71) (uuid 63b4c7ad-4cb4-4390-af9d-e1fe9b739d4f))
   (no_connect (at 177.8 109.855) (uuid 65cbe632-f3a5-4f86-a69f-4c70e374c337))
   (no_connect (at 177.8 99.695) (uuid 6d69ba05-89f9-4dd6-b276-c9dedeb5a1dd))
   (no_connect (at 177.8 125.095) (uuid 7030e1d3-4457-4a98-b001-f788d9a34e7b))
@@ -2075,6 +2076,7 @@
   (no_connect (at 177.8 97.155) (uuid c913dd2b-7438-483e-a4fc-bd93bbb545e1))
   (no_connect (at 177.8 117.475) (uuid cc4615ac-1b74-4aa1-82aa-63c100a0f7b1))
   (no_connect (at 177.8 76.835) (uuid d0ef2e9f-ec1e-4a55-886a-81af1116603a))
+  (no_connect (at 238.76 92.71) (uuid d567ddd9-79e0-48ab-9d29-80b5bb71ec32))
   (no_connect (at 177.8 79.375) (uuid dcd7ae5f-83d3-4f5d-979a-299c7a66cc35))
   (no_connect (at 177.8 114.935) (uuid dd437c07-d7d9-428a-9893-d96e3e265daf))
   (no_connect (at 40.64 177.8) (uuid e2690a44-8ea2-47d3-986e-3ae23b2f9366))
@@ -2890,6 +2892,12 @@
     (uuid fff356c6-3433-4cf4-82bf-7a242317d90b)
   )
 
+  (text "Note: could use a 4x buffer; for SS_N\na buffer with OE control is required\n(requires a software modification to\nthe programmer as well)."
+    (at 242.57 104.14 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8feb4f86-8d83-4bfa-ae9a-61c18bae3d31)
+  )
+
   (label "FT_USB_N" (at 116.84 66.675 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 1534d011-6e54-4a28-9c2b-13f89156dd5c)
@@ -2918,7 +2926,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 40032b69-0c1e-4e0f-afa8-9a75924e3968)
   )
-  (label "SS_N" (at 238.76 92.71 0) (fields_autoplaced)
+  (label "SS_N" (at 248.285 92.71 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 45582627-72df-49af-8d4c-db99125e5fc1)
   )
