@@ -4,3 +4,4 @@ fp-info-cache
 *.html
 *.xml
 *.kicad_prl
+*.lck
