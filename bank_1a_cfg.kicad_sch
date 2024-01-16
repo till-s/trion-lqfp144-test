@@ -1847,7 +1847,6 @@
   )
 
   (no_connect (at 22.86 66.04) (uuid 1a8b3ace-d674-4530-8275-1645b2a1fda1))
-  (no_connect (at 132.08 55.88) (uuid ca5b6c4d-7039-4700-a864-ee8564bc2c5c))
 
   (wire (pts (xy 115.57 162.56) (xy 115.57 139.7))
     (stroke (width 0) (type default))
@@ -2472,6 +2471,14 @@
   (wire (pts (xy 19.05 58.42) (xy 19.05 55.88))
     (stroke (width 0) (type default))
     (uuid fd49973e-7f73-4748-b3fc-f4cb46cbe67b)
+  )
+
+  (global_label "SDRAM_DQ0" (shape bidirectional) (at 132.08 55.88 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid eff33629-d71b-47bc-8e50-6a6b71591bee)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 147.2436 55.88 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
+    )
   )
 
   (symbol (lib_id "Device:R_Small") (at 134.62 34.29 0) (unit 1)
