@@ -637,6 +637,10 @@
     [
       "fcca3f1a-1f66-4a0e-b66f-62043120db1b",
       "LED"
+    ],
+    [
+      "2e351824-411f-43cf-ac67-93ed967e9ac5",
+      "Ethernet"
     ]
   ],
   "text_variables": {}
