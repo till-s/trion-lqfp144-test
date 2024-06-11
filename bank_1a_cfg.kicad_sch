@@ -2473,6 +2473,12 @@
     (uuid fd49973e-7f73-4748-b3fc-f4cb46cbe67b)
   )
 
+  (text "Green LED (indicating FPGA\nconfiguration is complete)"
+    (at 121.92 90.805 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a58b5bd4-2219-428a-a744-4fe4b8a92f79)
+  )
+
   (global_label "SDRAM_DQ0" (shape bidirectional) (at 132.08 55.88 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid eff33629-d71b-47bc-8e50-6a6b71591bee)
@@ -3154,7 +3160,7 @@
     (property "Reference" "U8" (at 123.952 174.0479 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "T8Q144xx" (at 123.952 176.4721 0)
+    (property "Value" "T20Q144xx" (at 123.952 176.4721 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_QFP:LQFP-144_20x20mm_P0.5mm" (at 105.41 199.39 0)
@@ -4122,7 +4128,7 @@
     (property "Reference" "U8" (at 109.22 72.8401 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "T8Q144xx" (at 109.22 75.2643 0)
+    (property "Value" "T20Q144xx" (at 109.22 75.2643 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_QFP:LQFP-144_20x20mm_P0.5mm" (at 109.22 82.55 0)

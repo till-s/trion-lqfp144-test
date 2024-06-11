@@ -2472,7 +2472,7 @@
     (property "Reference" "U8" (at 232.41 60.1401 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "T8Q144xx" (at 232.41 62.5643 0)
+    (property "Value" "T20Q144xx" (at 232.41 62.5643 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_QFP:LQFP-144_20x20mm_P0.5mm" (at 232.41 72.39 0)
