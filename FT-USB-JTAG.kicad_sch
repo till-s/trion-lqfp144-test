@@ -3025,7 +3025,7 @@
     (property "Reference" "R20" (at 64.1929 148.3614 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "100k" (at 66.6171 148.3614 0)
+    (property "Value" "1M" (at 66.6171 148.3614 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 65.405 149.86 0)
