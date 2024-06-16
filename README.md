@@ -2,7 +2,7 @@
 
 This board implements a JTAG programmer that can be used with
 the efinity software to access [efinix](https://www.efinixinc.com)
-FPGAs vie JTAG.
+FPGAs via JTAG.
 
 The board also hosts a Trion T8Q144 device (pin-compatible with
 the more loaded T20Q144 which could be used as an alternative),
