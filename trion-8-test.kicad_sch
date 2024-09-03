@@ -249,7 +249,7 @@
     (property "Sheetname" "GPIO" (at 92.075 161.2134 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "unused.kicad_sch" (at 92.075 189.1796 0)
+    (property "Sheetfile" "gpio.kicad_sch" (at 92.075 189.1796 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
