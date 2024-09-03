@@ -1279,10 +1279,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 23729e06-36fb-45ee-8e0d-68d724ea7034)
   )
-  (text "Bank 4 is not really unused anymore..." (at 59.69 36.83 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 9a498b00-acde-423c-85ac-1b3eb9077a6f)
-  )
 
   (global_label "FPGA_GPIO_7" (shape bidirectional) (at 225.425 66.04 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))

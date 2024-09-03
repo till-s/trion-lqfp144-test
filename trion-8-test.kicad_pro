@@ -573,6 +573,18 @@
       {
         "netclass": "jlc7628_50_100",
         "pattern": "*ETH*RDN"
+      },
+      {
+        "netclass": "jlc7628_50_100",
+        "pattern": "*ETH*TDP"
+      },
+      {
+        "netclass": "jlc7628_50_100",
+        "pattern": "*ETH*TDN"
+      },
+      {
+        "netclass": "jlc7628_50_100",
+        "pattern": "*ETH*REFCLK"
       }
     ]
   },
