@@ -1985,7 +1985,7 @@
     )
     (pin "1" (uuid d257f006-7bd5-4217-90bf-0c1dbc9a84b8))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR0109") (unit 1)
         )
@@ -2022,7 +2022,7 @@
           (reference "R12") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "R49") (unit 1)
         )
@@ -2061,7 +2061,7 @@
     (pin "2" (uuid 36c6da46-c51f-4e8b-b31e-51b0ca26ecab))
     (pin "1" (uuid 31e02dc6-ca95-47d1-82d5-6d27ed43ebd8))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "Y1") (unit 1)
         )
@@ -2098,7 +2098,7 @@
           (reference "C100") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "C49") (unit 1)
         )
@@ -2134,7 +2134,7 @@
     (pin "2" (uuid 725a2f3f-96e2-4dab-b1c6-af925a97717c))
     (pin "1" (uuid 391d615b-bb5d-43fc-b745-34322f8b4605))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "R50") (unit 1)
         )
@@ -2166,7 +2166,7 @@
     (pin "1" (uuid 72ee825b-2044-4c4d-ac68-f771b69e60e8))
     (pin "2" (uuid ce3b38f7-1a3d-4e29-b02f-faee21cfb331))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "C54") (unit 1)
         )
@@ -2202,7 +2202,7 @@
           (reference "#PWR046") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR087") (unit 1)
         )
@@ -2243,7 +2243,7 @@
           (reference "#PWR044") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR086") (unit 1)
         )
@@ -2273,7 +2273,7 @@
     )
     (pin "1" (uuid 027b6d1a-f703-4f0e-817c-31bd1970fc2d))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR095") (unit 1)
         )
@@ -2298,7 +2298,7 @@
     )
     (pin "1" (uuid c4c3120f-d863-4ce0-a549-541aad27a9f3))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR094") (unit 1)
         )
@@ -2338,7 +2338,7 @@
           (reference "C102") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "C48") (unit 1)
         )
@@ -2383,7 +2383,7 @@
           (reference "C115") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "C51") (unit 1)
         )
@@ -2424,7 +2424,7 @@
           (reference "#PWR052") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR092") (unit 1)
         )
@@ -2465,7 +2465,7 @@
           (reference "#PWR043") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR085") (unit 1)
         )
@@ -2644,7 +2644,7 @@
     (pin "3" (uuid de889fbd-c22b-4f81-83fc-d2bcf466da24))
     (pin "4" (uuid bc1aef62-ffb3-4b09-95c7-cb334459fd7a))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "U8") (unit 5)
         )
@@ -2704,7 +2704,7 @@
           (reference "U16") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "U10") (unit 1)
         )
@@ -2734,7 +2734,7 @@
     )
     (pin "1" (uuid 3efc6f1e-8e8c-4536-8133-4497452b6951))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR096") (unit 1)
         )
@@ -2766,7 +2766,7 @@
     (pin "1" (uuid 757f5baf-6b96-4ad5-b6fe-1a54ce52b15e))
     (pin "2" (uuid 40e7c8ba-a108-4d4f-bf57-0c3c75204a2a))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "C53") (unit 1)
         )
@@ -2798,7 +2798,7 @@
     (pin "1" (uuid 6520c9af-ee8d-4810-a02c-76fc972f9d8e))
     (pin "2" (uuid fbee64d2-aa8f-4282-8401-1eb837fbc0a3))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "C52") (unit 1)
         )
@@ -2823,7 +2823,7 @@
     )
     (pin "1" (uuid a13d2892-3969-488b-a129-cef147cd3657))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR0131") (unit 1)
         )
@@ -2860,7 +2860,7 @@
           (reference "C91") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "C50") (unit 1)
         )
@@ -2907,7 +2907,7 @@
           (reference "R29") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "R45") (unit 1)
         )
@@ -2948,7 +2948,7 @@
           (reference "#PWR053") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR090") (unit 1)
         )
@@ -2978,7 +2978,7 @@
     )
     (pin "1" (uuid 9fecb5ed-e89b-4574-a5f4-e208d562e618))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR024") (unit 1)
         )
@@ -3015,7 +3015,7 @@
           (reference "R16") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "R48") (unit 1)
         )
@@ -3057,7 +3057,7 @@
           (reference "R67") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "R47") (unit 1)
         )
@@ -3098,7 +3098,7 @@
           (reference "#PWR055") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR089") (unit 1)
         )
@@ -3139,7 +3139,7 @@
           (reference "#PWR054") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR091") (unit 1)
         )
@@ -3181,7 +3181,7 @@
           (reference "R68") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "R46") (unit 1)
         )
@@ -3211,7 +3211,7 @@
     )
     (pin "1" (uuid 865951cf-52c5-468d-9162-afbe14fc20dc))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR0132") (unit 1)
         )
@@ -3237,7 +3237,7 @@
     (pin "1" (uuid e6b35b52-e8e5-4fa2-bb1d-a2745d37d5e5))
     (pin "2" (uuid e08010fb-0216-4a60-882e-0d0651465ead))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "R73") (unit 1)
         )
@@ -3269,7 +3269,7 @@
     (pin "1" (uuid d1ec887b-125a-4973-b84c-1c09d4ac542f))
     (pin "2" (uuid a2766867-876d-4dae-a005-f28c768f13b1))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "C59") (unit 1)
         )
@@ -3306,7 +3306,7 @@
           (reference "R28") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "R44") (unit 1)
         )
@@ -3336,7 +3336,7 @@
     )
     (pin "1" (uuid d63760dc-dd9b-4497-bf80-530d509b9ba0))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR093") (unit 1)
         )
@@ -3361,7 +3361,7 @@
     )
     (pin "1" (uuid 01b15750-7f2e-4723-b70e-d0974b6e3d70))
     (instances
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "#PWR025") (unit 1)
         )
@@ -3416,7 +3416,7 @@
           (reference "J1") (unit 1)
         )
       )
-      (project "trion-8-test"
+      (project "tic-nic"
         (path "/8c6e15e3-1804-4f03-8a4f-3cb8420d9169/945e4dbc-067e-402b-ba9d-38126a9e21c9"
           (reference "J4") (unit 1)
         )
