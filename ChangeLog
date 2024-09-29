@@ -1,0 +1,6 @@
+ - added AC-coupling capacitor on RF_IN; placed so that no other
+   component was moved (to reuse V2.0 stencil with minimal manual-work).
+
+   NOTE: overlapping courtyards of the bias-T has been marked as OK
+   to ignore. Moving L would render reusing the 2.0 stencil more difficult.
+2.0:
