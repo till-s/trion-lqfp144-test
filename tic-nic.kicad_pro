@@ -585,6 +585,10 @@
       {
         "netclass": "jlc7628_50_100",
         "pattern": "*ETH*REFCLK"
+      },
+      {
+        "netclass": "jlc7628_50_100",
+        "pattern": "*RF_IN_AC"
       }
     ]
   },
