@@ -1,3 +1,4 @@
+ - re-connected fpgaGpio[0] from pin 36 -> 32 (REF_RES is NOT a GPIO!)
  - added AC-coupling capacitor on RF_IN; placed so that no other
    component was moved (to reuse V2.0 stencil with minimal manual-work).
 
