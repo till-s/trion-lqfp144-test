@@ -2260,7 +2260,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 80.01 43.18 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 20188540-6d83-49b5-ab76-e046521e7da8)
     (property "Reference" "C9" (at 82.3341 41.9742 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2516,7 +2516,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 74.93 43.18 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 25bc8553-7bdf-4214-a591-360716b91f5a)
     (property "Reference" "C5" (at 74.93 37.465 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2574,7 +2574,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 48.26 43.18 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 2f6be42a-847a-411a-b44b-ea61c3e1d427)
     (property "Reference" "C8" (at 48.26 37.465 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2852,7 +2852,7 @@
   )
 
   (symbol (lib_id "Device:L_Ferrite_Small") (at 55.88 40.64 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 73a6649d-2563-4957-bb83-be6a721e3f30)
     (property "Reference" "L1" (at 55.88 36.83 90)
       (effects (font (size 1.27 1.27)))
@@ -3058,7 +3058,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 35.56 43.18 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 7a7c6011-93a6-472d-80aa-383ea6eb4eb1)
     (property "Reference" "C10" (at 33.2359 41.9742 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3364,7 +3364,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 152.4 167.64 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 8c8076f0-e84b-48f0-b23d-573fb91c3abe)
     (property "Reference" "C3" (at 154.7241 166.4342 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3570,7 +3570,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 40.64 43.18 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 8efcf67e-6c5b-405f-882b-41a42ebc133d)
     (property "Reference" "C6" (at 40.64 37.465 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3652,7 +3652,7 @@
   )
 
   (symbol (lib_id "Memory_RAM:MT48LC16M16A2P") (at 57.15 88.9 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 9daf4162-3c1b-4c4d-930c-9008263ae4d1)
     (property "Reference" "U1" (at 59.3441 51.7357 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3970,7 +3970,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 31.75 97.79 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid c559f2bc-2d67-491d-88c5-73b4aa5a21f4)
     (property "Reference" "R1" (at 33.2486 96.5779 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4369,7 +4369,7 @@
   )
 
   (symbol (lib_id "Oscillator:ECS-2520MV-xxx-xx") (at 138.43 168.91 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid d3564c37-9d8c-4bbe-a877-f6c9e019e1a1)
     (property "Reference" "X2" (at 132.588 161.417 0)
       (effects (font (size 1.27 1.27)))
@@ -4428,7 +4428,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 44.45 43.18 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid d634bddf-687e-427e-a0f7-61e10b342da1)
     (property "Reference" "C7" (at 44.45 37.465 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4517,7 +4517,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 71.12 43.18 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid e01c5cd4-c558-4a14-866f-15f79929db7a)
     (property "Reference" "C4" (at 71.12 37.465 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4624,7 +4624,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 67.31 43.18 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid f5cd2c2d-60fc-47f4-b58c-95f03f6ea4dc)
     (property "Reference" "C2" (at 67.31 37.465 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4688,7 +4688,7 @@
   )
 
   (symbol (lib_id "Device:C_Small") (at 63.5 43.18 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid f9f9100c-9199-4406-9680-8237792053ba)
     (property "Reference" "C1" (at 63.5 37.465 90)
       (effects (font (size 1.27 1.27)) (justify left))

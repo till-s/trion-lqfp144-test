@@ -1755,15 +1755,25 @@
     (uuid ffe272cd-e78a-4769-83e4-8a6c1605a5ef)
   )
 
-  (text "Bat. retainer: Keystone 3034\nalt. holder: Adam Tech BH-74K-5"
-    (at 64.135 142.24 0)
+  (text "Bat. retainer: Keystone 3034\nalt. holder: Adam Tech BH-74K-5\n\nInstall JP7 1-2 to enable battery-\nbackup; 2-3 when no battery is\npresent or to disable battery."
+    (at 65.405 147.955 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 327bcb9b-eee2-42c3-a1c4-9b571fff74c2)
+  )
+  (text "Use I2C instead of UART: DNL R29, DNL R38\nbut load R14, R15, R16 and R20."
+    (at 212.09 71.755 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5263a5a5-0941-4bf3-9aae-b4199ac28354)
   )
   (text "NOTES:\n - 4u7 capacitor used\n   elsewhere has >20M\n   isolation res. which\n   is not great for\n   battery!\n - TS5A63157 has very\n   low leakage."
     (at 35.56 167.64 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8ff474ee-a887-48c1-b622-6d9de5b93255)
+  )
+  (text "JP6 controls power-supply of active\nantenna; install for active antenna,\nremove for passive antenna."
+    (at 194.945 121.92 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid ecdc380b-eba3-4f33-bb58-b53afd35faa2)
   )
 
   (label "RF_IN_AC" (at 201.295 98.425 0) (fields_autoplaced)
@@ -1826,12 +1836,12 @@
   )
 
   (symbol (lib_id "Diode:ESD9B5.0ST5G") (at 248.285 103.505 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 038cb783-76b2-417b-8db8-c21b30730dad)
     (property "Reference" "D13" (at 250.2916 103.505 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "~" (at 245.3203 103.505 0)
+    (property "Value" "PESD5V5C1" (at 245.11 104.775 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Diode_SMD:D_SOD-882" (at 248.285 103.505 0)
@@ -2275,7 +2285,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 199.39 79.375 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 66d04681-105b-4e4b-9338-83a0746f2d0c)
     (property "Reference" "R14" (at 196.85 80.645 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2358,7 +2368,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 213.36 85.725 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 7652f8ce-3d89-4e12-84a6-5185da70e5a5)
     (property "Reference" "R16" (at 213.995 88.265 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2708,7 +2718,7 @@
     (property "Reference" "D12" (at 84.582 101.6579 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "D" (at 84.582 104.0821 90)
+    (property "Value" "BAS16J" (at 84.582 104.0821 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Diode_SMD:D_SOD-323F" (at 82.55 102.87 0)
@@ -2860,7 +2870,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 205.74 79.375 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid b711a481-f419-4707-92f8-52555ec3509c)
     (property "Reference" "R15" (at 203.2 80.645 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2962,7 +2972,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 213.36 83.185 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid dbd9e076-f7c6-445b-8473-3e27917c41da)
     (property "Reference" "R20" (at 213.995 80.645 90)
       (effects (font (size 1.27 1.27)) (justify left))

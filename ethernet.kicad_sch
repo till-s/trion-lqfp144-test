@@ -4986,7 +4986,7 @@
   )
 
   (symbol (lib_id "Device:R_Small") (at 115.57 93.98 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp yes)
     (uuid 981ad322-ee31-449a-93f7-d0c57700519e)
     (property "Reference" "R9" (at 118.11 91.44 90)
       (effects (font (size 1.27 1.27)) (justify left))
